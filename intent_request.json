@@ -1,0 +1,64 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": false,
+		"sessionId": "",
+		"application": {
+			"applicationId": ""
+		},
+		"user": {
+			"userId": "",
+			"permissions": {
+				"consentToken": ""
+			}
+		}
+	},
+	"context": {
+		"System": {
+			"application": {
+				"applicationId": ""
+			},
+			"user": {
+				"userId": "",
+				"permissions": {
+					"consentToken": ""
+				}
+			},
+			"device": {
+				"deviceId": "",
+				"supportedInterfaces": {}
+			},
+			"apiEndpoint": "https://api.amazonalexa.com",
+			"apiAccessToken": ""
+		},
+		"Viewport": {
+			"experiences": [
+				{
+					"arcMinuteWidth": 246,
+					"arcMinuteHeight": 144,
+					"canRotate": false,
+					"canResize": false
+				}
+			],
+			"shape": "RECTANGLE",
+			"pixelWidth": 1024,
+			"pixelHeight": 600,
+			"dpi": 160,
+			"currentPixelWidth": 1024,
+			"currentPixelHeight": 600,
+			"touch": [
+				"SINGLE"
+			]
+		}
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "",
+		"timestamp": "2018-11-28T17:57:53Z",
+		"locale": "en-US",
+		"intent": {
+			"name": "",
+			"confirmationStatus": "NONE"
+		}
+	}
+}

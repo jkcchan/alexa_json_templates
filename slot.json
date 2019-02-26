@@ -1,0 +1,24 @@
+{
+    "name": "",
+    "value": "",
+    "resolutions": {
+        "resolutionsPerAuthority": [
+            {
+                "authority": "",
+                "status": {
+                    "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                    {
+                        "value": {
+                            "name": "",
+                            "id": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "confirmationStatus": "NONE",
+    "source": "USER"
+}

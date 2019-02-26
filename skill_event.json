@@ -1,0 +1,29 @@
+{
+    "version": "1.0",
+    "context": {
+        "System": {
+            "application": {
+                "applicationId": ""
+            },
+            "user": {
+                "userId": "",
+                "accessToken": "",
+                "permissions": {
+                    "consentToken": ""
+                }
+            },
+            "apiEndpoint": "https://api.amazonalexa.com",
+            "apiAccessToken": ""
+        }
+    },
+    "request": {
+        "type": "",
+        "requestId": "",
+        "timestamp": "2019-01-11T02:35:20Z",
+        "eventCreationTime": "2019-01-11T02:35:20Z",
+        "eventPublishingTime": "2019-01-11T02:35:20Z",
+        "body": {
+            "accessToken": ""
+        }
+    }
+}
